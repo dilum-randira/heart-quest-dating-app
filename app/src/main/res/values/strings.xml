@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Heart  Quest</string>
+    <string name="ready_to_find_someone_special_we_use_advanced_matching_to_connect_you_with_compatible_singles">Ready to find someone special? We use advanced matching to connect you with compatible singles.</string>
+    <string name="next">NEXT</string>
+    <string name="create_a_profile_that_truly_reflects_who_you_are_share_your_interests_passions_and_what_you_re_looking_for">Create a profile that truly reflects who you are. Share your interests, passions, and what you\'re looking for.</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_with_phone">Login With Phone</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="let_s_connect_with_people_around_you">Let\'s Connect With People Around You</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="please_enter_your_phone_number_to_continue">Please enter your phone number to continue</string>
+    <string name="we_will_send_a_text_with_a_verification_code_message_and_data_rates_may_apply_learn_what_happens_when_your_number_changes">We will send a text with a verification code. Message and data rates may apply. Learn what happens when your number changes.</string>
+    <string name="_123_456_4">123 456 4</string>
+    <string name="Enter_Verification_Code">Enter_Verification_Code</string>
+    <string name="resend_00_30s">Resend 00:30s</string>
+    <string name="Add_Profime_Details">Add Profile Details</string>
+    <string name="Add_Profile_Details">add profile details</string>
+    <string name="please_Add_Your_Profile_Details_Here">Please Add Your Profile Details Here</string>
+</resources>
