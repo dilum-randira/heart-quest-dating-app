@@ -22,3 +22,9 @@
 - [License](#-license)
 
 ---
+## 🚀 Features
+
+### 👤 Core Dating Mechanics
+* **Smart Matching Algorithm:** Computes compatibility using user preferences, interests, and behavior.
+* **Swipe-to-Match:** Classic real-time swiping (left/right) system.
+* **Geolocation Discovery:** Discovers potential matches nearby using adjustable radius filtering.
