@@ -32,3 +32,9 @@
 * **Real-time Chat:** Instant messaging powered by WebSockets with multimedia sharing capabilities.
 * **Video & Audio Calling:** Secure, encrypted in-app calls without exposing personal phone numbers.
 * **Icebreakers:** Prompt questions built into profiles to easily initiate conversations.
+### 🛡️ Safety & Verification
+* **AI Photo Verification:** Ensures profile authenticity by prompting users to replicate a random pose.
+* **Report & Block:** Robust moderation tools allowing users to instantly flag or block abusive accounts.
+* **Profile Incognito Mode:** Allows premium users to browse privately without showing online status.
+
+---
