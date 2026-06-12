@@ -49,4 +49,8 @@
 * **Primary Database:** MongoDB / PostgreSQL (User profiles, preferences, and data)
 * **Caching & Real-time:** Redis (Session caching, location data geolocation index)
 * **WebSockets:** Socket.io (Real-time chatting and notification delivery)
+### DevOps & Cloud
+* **Media Storage:** AWS S3 (Profile pictures and video streams)
+* **Authentication:** OAuth 2.0, JWT, Firebase Auth
+* **CI/CD & Deployment:** Docker, GitHub Actions, AWS EC2 / Vercel
 
