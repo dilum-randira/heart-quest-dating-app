@@ -5,3 +5,20 @@
 [![PRs Welcome](https://shields.io)](http://makeapullrequest.com)
 
 **HeartSync** is a full-stack, cross-platform dating application designed to connect individuals based on deep compatibility, shared interests, and real-time location tracking. The platform provides a secure, intuitive, and modern matchmaking experience.
+---
+
+## 📌 Table of Contents
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Architecture Overview](#-architecture-overview)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Environment Variables](#environment-variables)
+  - [Installation & Setup](#installation--setup)
+- [Running Tests](#-running-tests)
+- [API Documentation](#-api-documentation)
+- [Security Measures](#-security-measures)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
