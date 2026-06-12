@@ -38,3 +38,10 @@
 * **Profile Incognito Mode:** Allows premium users to browse privately without showing online status.
 
 ---
+## 🛠️ Tech Stack
+
+### Frontend / Mobile
+* **Framework:** React Native / Flutter (iOS & Android) or React.js / Next.js (Web)
+* **State Management:** Redux Toolkit / Zustand
+* **Styles:** TailwindCSS / Styled Components
+
