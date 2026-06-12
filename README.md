@@ -44,4 +44,9 @@
 * **Framework:** React Native / Flutter (iOS & Android) or React.js / Next.js (Web)
 * **State Management:** Redux Toolkit / Zustand
 * **Styles:** TailwindCSS / Styled Components
+### Backend / Database
+* **Runtime Environment:** Node.js (Express.js) / Python (FastAPI)
+* **Primary Database:** MongoDB / PostgreSQL (User profiles, preferences, and data)
+* **Caching & Real-time:** Redis (Session caching, location data geolocation index)
+* **WebSockets:** Socket.io (Real-time chatting and notification delivery)
 
