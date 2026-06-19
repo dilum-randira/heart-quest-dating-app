@@ -1,4 +1,4 @@
-hkgygmnbhbmnhbhbhbh# Heartquest - Modern Dating Application
+hkgygmnbhbmnnmhbhbhbh# Heartquest - Modern Dating Application
 
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Build Status](https://shields.io)]()
